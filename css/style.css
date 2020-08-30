@@ -318,6 +318,82 @@
 }
 
 
+@media(max-width: 375px){
+
+.header {
+ width: 100%;
+ height: 50px;
+ position: fixed;
+ z-index: 999;
+ background-color: #efeff0;
+}
+
+.top_page {
+ top: 15px;
+ left: 15px;
+ width: 23px;
+ height: 23px;
+}
+
+.top_page a {
+ padding: 0;
+ vertical-align: top;
+ font-size: 11.5px;
+}
+
+.humberger_wrap {
+ top: 25.5px;
+ padding-right: 43px;
+ padding-top: 0px;
+}
+
+.top_ttl {
+ padding: 151px 35px 69px 200px;
+ font-size: .2rem;
+ letter-spacing: .4rem;
+}
+
+.about {
+ max-width: 90%;
+}
+
+.about section {
+ font-size: 2.3rem;
+}
+
+.photo {
+ display: block;
+}
+
+.cameraman_img {
+ width: 120px;
+ display: inline-block;
+}
+
+.works {
+ padding-bottom: 0px;
+}
+
+.works section {
+ font-size: 2.3rem;
+}
+
+.flex {
+ display: block;
+ margin: auto;
+ max-width: 80%;
+}
+
+#footer {
+ padding: 10px;
+ text-align: center;
+}
+
+
+
+
+
+}
 
 
 
